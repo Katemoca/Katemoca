@@ -20,15 +20,15 @@ Debido a la alta demanda en este rubro, mi camino como programadora se dirige a 
 ## ¿Qué tecnologías uso?
 Para despegar 🚀 y ser la programadora que siempre soñé 😊, en el bootcamp de Henry practiqué intensivamente las siguientes tecnologías: 
 
-**Javascript**
-**Node.js**
-**React.js**
-**Express.js**
-**PostgresSQL**
-**Sequelize**
-**GIT**
-**HTML**
-**CSS**
+**Javascript** -
+**Node.js** -
+**React.js** -
+**Express.js** -
+**PostgresSQL** -
+**Sequelize** -
+**GIT** -
+**HTML** -
+**CSS** 
 
 ## Mis proyectos
 En Henry estuve practicando constantemente con la creación de una Single Page Application (SPA) utilizando estas tecnologías integralmente. 
