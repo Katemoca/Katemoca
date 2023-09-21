@@ -3,7 +3,7 @@ Katemoca en GitHub
 ---
 > If you can dream it, you can do it.
 - Walt Disney
-  
+---
 ### ¿Quién soy?
 Soy **fullstack developer** orientada al **frontend** y al diseño de material visual con experiencia en **backend** y **bases de datos**.
 
