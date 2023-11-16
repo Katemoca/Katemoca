@@ -1,25 +1,25 @@
-### ¡Hola a todos! Mi nombre es Katerin Castro 👋
-Katemoca en GitHub
+### Hello, everyone! My name is Katerin Castro  👋
+You can find me on GitHub as Katemoca.
 ---
 > If you can dream it, you can do it.
 > You can also code it 😎.
 - Walt Disney and coders around the world.
 ---
-## ¿Quién soy?
-Soy **fullstack developer** orientada al **frontend** y al diseño de material visual con experiencia en **backend** y **bases de datos**.
+## Who am I?
+I am a **full-stack developer** with a focus on **frontend** and **visual material design**, with experience in **backend and databases**.
 
-Soy licenciada en lenguas modernas, una persona interesada en la innovación educativa y tecnológica. Estudiante de Soy Henry y ferviente amante de la programación, la música y la comunicación. 
+I have a degree in modern languages and am interested in educational and technological innovation. I am a student at Soy Henry and a passionate lover of programming, music, and communication. 
 
-## ¿Qué hago?
-Actualmente, me dedico a la práctica constante mediante proyectos sencillos y a gran escala para mejorar mis habilidades en la resolución de problemas y solidificar mis conocimientos. Me encanta descubrir todas las posibilidades de **creación mediante el código**. 
+## What do I do?
+Currently, I dedicate myself to constant practice through simple and large-scale projects to improve my problem-solving skills and solidify my knowledge. I love discovering all the possibilities of **creation through code**. 
 
-## ¿A dónde me dirijo?
-Mi meta principal es poder generar proyectos que beneficien a la gente en sus vidas diarias a través del código.   
+## Where am I heading?
+My main goal is to generate projects that benefit people in their daily lives through code.  
 
-Debido a la alta demanda en este rubro, mi camino como programadora se dirige a la mejora constante en la resolución de problemas y la creación de proyectos que impacten a la sociedad.
+Due to the high demand in this field, my path as a programmer is focused on continuous improvement in problem-solving and the creation of projects that impact society.
 
-## ¿Qué tecnologías uso?
-Para despegar 🚀 y ser la programadora que siempre soñé 😊, en el bootcamp de Henry practiqué intensivamente las siguientes tecnologías: 
+## What technologies do I use?
+To take off 🚀 and become the programmer I've always dreamed of 😊, I intensively practiced the following technologies at the Henry bootcamp: 
 
 **Javascript** -
 **Node.js** -
@@ -31,17 +31,13 @@ Para despegar 🚀 y ser la programadora que siempre soñé 😊, en el bootcamp
 **HTML** -
 **CSS** 
 
-## Mis proyectos
-En Henry estuve practicando constantemente con la creación de una Single Page Application (SPA) utilizando estas tecnologías integralmente. 
-No dudes en darle un vistazo al repositorio 🎮 PI-VIDEOJUEGOS-videogames 
+## My projects
+At Henry, I constantly practiced creating a Single Page Application (SPA) using these technologies comprehensively. Feel free to check out the repository 🎮 PI-VIDEOJUEGOS-videogames.
 
-## Me puedes encontrar aquí
-Contáctame a través de mi correo electrónico katerinmonguacastro@gmail, y juntos lograremos el desarrollo de nuevas ideas con la magia del código. 
+"I also contributed to the development of a full-stack application for a private hospital. As a team, we utilized various technologies for both the back-end and the front-end, in addition to other libraries. Personally, I enhanced my knowledge in Figma, React.js, Redux, and JavaScript. I also learned how to implement libraries such as Inext18, Leaflet and Tailwind CSS, and gained proficiency in managing React context."
 
-
-
-
-
+## You can find me here
+Contact me via my email katerinmonguacastro@gmail, and together we will achieve the development of new ideas with the magic of code.
 
 
 <!--
